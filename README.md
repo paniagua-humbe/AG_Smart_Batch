@@ -20,8 +20,8 @@ Smart Batch es un sistema de planificación urbana que utiliza algoritmos genét
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/smart-batch.git
-cd smart-batch
+git clone https://github.com/paniagua-humbe/AG_Smart_Batch.git
+cd
 
 # Instalar dependencias
 pip install numpy matplotlib
